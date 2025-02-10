@@ -2676,6 +2676,8 @@
         "month": "μήνας",
         "year": "έτος",
         "Start {{days}}-days free trial": "Έναρξη δωρεάν δοκιμής {{days}} ημερών",
-        "Added": "Προστέθηκε"
+        "Added": "Προστέθηκε",
+        "Forget password?": "Ξεχάσατε τον κωδικό πρόσβασης;",
+        "Use your email to restore your password": "Χρησιμοποιήστε το email σας για να επαναφέρετε τον κωδικό πρόσβασής σας"
     }
 }

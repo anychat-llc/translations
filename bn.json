@@ -2676,6 +2676,8 @@
         "month": "মাস",
         "year": "বছর",
         "Start {{days}}-days free trial": "{{days}}-দিনের বিনামূল্যে ট্রায়াল শুরু করুন",
-        "Added": "যোগ করা হয়েছে"
+        "Added": "যোগ করা হয়েছে",
+        "Forget password?": "পাসওয়ার্ড ভুলে গেছেন?",
+        "Use your email to restore your password": "আপনার পাসওয়ার্ড পুনরুদ্ধার করতে আপনার ইমেল ব্যবহার করুন"
     }
 }

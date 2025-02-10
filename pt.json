@@ -2729,6 +2729,8 @@
         "month": "mês",
         "year": "ano",
         "Start {{days}}-days free trial": "Comece o teste gratuito de {{days}} dias",
-        "Added": "Adicionado"
+        "Added": "Adicionado",
+        "Forget password?": "Esqueceu a senha?",
+        "Use your email to restore your password": "Use seu e-mail para restaurar sua senha"
     }
 }

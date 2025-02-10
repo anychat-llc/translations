@@ -2818,6 +2818,8 @@
         "month": "місяць",
         "year": "рік",
         "Start {{days}}-days free trial": "Почніть {{days}}-денну безкоштовну пробну версію",
-        "Added": "Додано"
+        "Added": "Додано",
+        "Forget password?": "Забули пароль?",
+        "Use your email to restore your password": "Скористайтеся електронною поштою, щоб відновити пароль"
     }
 }

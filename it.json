@@ -2820,6 +2820,8 @@
         "month": "mese",
         "year": "anno",
         "Start {{days}}-days free trial": "Inizia la prova gratuita di {{giorni}} giorni",
-        "Added": "Aggiunto"
+        "Added": "Aggiunto",
+        "Forget password?": "Password dimenticata?",
+        "Use your email to restore your password": "Utilizza la tua email per ripristinare la tua password"
     }
 }

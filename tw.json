@@ -2810,6 +2810,8 @@
         "month": "月",
         "year": "年",
         "Start {{days}}-days free trial": "開始 {{days}} 天免費試用",
-        "Added": "額外"
+        "Added": "額外",
+        "Forget password?": "忘記密碼？",
+        "Use your email to restore your password": "使用您的電子郵件恢復密碼"
     }
 }

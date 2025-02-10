@@ -2729,6 +2729,8 @@
         "month": "חוֹדֶשׁ",
         "year": "שָׁנָה",
         "Start {{days}}-days free trial": "התחל {{days}}-ימי ניסיון חינם",
-        "Added": "נוסף"
+        "Added": "נוסף",
+        "Forget password?": "לשכוח סיסמה?",
+        "Use your email to restore your password": "השתמש באימייל שלך כדי לשחזר את הסיסמה שלך"
     }
 }

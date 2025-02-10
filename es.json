@@ -2823,6 +2823,8 @@
         "month": "mes",
         "year": "año",
         "Start {{days}}-days free trial": "Comience una prueba gratuita de {{days}} días",
-        "Added": "Agregado"
+        "Added": "Agregado",
+        "Forget password?": "¿Olvidaste tu contraseña?",
+        "Use your email to restore your password": "Utilice su correo electrónico para restaurar su contraseña"
     }
 }

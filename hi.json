@@ -2729,6 +2729,8 @@
         "month": "महीना",
         "year": "वर्ष",
         "Start {{days}}-days free trial": "{{days}}-दिनों का निःशुल्क परीक्षण प्रारंभ करें",
-        "Added": "जोड़ा"
+        "Added": "जोड़ा",
+        "Forget password?": "पासवर्ड भूल गए?",
+        "Use your email to restore your password": "अपना पासवर्ड पुनः स्थापित करने के लिए अपने ईमेल का उपयोग करें"
     }
 }

@@ -2833,6 +2833,8 @@
         "month": "miesiąc",
         "year": "rok",
         "Start {{days}}-days free trial": "Rozpocznij {{dni}}-dniowy bezpłatny okres próbny",
-        "Added": "W dodatku"
+        "Added": "W dodatku",
+        "Forget password?": "Zapomniałeś hasła?",
+        "Use your email to restore your password": "Użyj swojego adresu e-mail, aby odzyskać hasło"
     }
 }

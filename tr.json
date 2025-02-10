@@ -2729,6 +2729,8 @@
         "month": "ay",
         "year": "yıl",
         "Start {{days}}-days free trial": "{{days}} günlük ücretsiz denemeyi başlat",
-        "Added": "Eklendi"
+        "Added": "Eklendi",
+        "Forget password?": "Şifrenizi mi unuttunuz?",
+        "Use your email to restore your password": "Şifrenizi geri yüklemek için e-postanızı kullanın"
     }
 }

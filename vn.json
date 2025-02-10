@@ -2832,6 +2832,8 @@
         "month": "tháng",
         "year": "năm",
         "Start {{days}}-days free trial": "Bắt đầu dùng thử miễn phí {{days}} ngày",
-        "Added": "Đã thêm"
+        "Added": "Đã thêm",
+        "Forget password?": "Quên mật khẩu?",
+        "Use your email to restore your password": "Sử dụng email của bạn để khôi phục mật khẩu"
     }
 }

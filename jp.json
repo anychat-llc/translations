@@ -2729,6 +2729,8 @@
         "month": "月",
         "year": "年",
         "Start {{days}}-days free trial": "{{days}}日間の無料トライアルを開始",
-        "Added": "追加した"
+        "Added": "追加した",
+        "Forget password?": "パスワードを忘れましたか?",
+        "Use your email to restore your password": "メールアドレスを使用してパスワードを復元する"
     }
 }

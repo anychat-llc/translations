@@ -2729,6 +2729,8 @@
         "month": "月",
         "year": "年",
         "Start {{days}}-days free trial": "开始 {{days}} 天免费试用",
-        "Added": "额外"
+        "Added": "额外",
+        "Forget password?": "忘记密码？",
+        "Use your email to restore your password": "使用您的电子邮件恢复密码"
     }
 }

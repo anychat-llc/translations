@@ -2729,6 +2729,8 @@
         "month": "شهر",
         "year": "سنة",
         "Start {{days}}-days free trial": "ابدأ تجربة مجانية لمدة {{days}} يومًا",
-        "Added": "تمت الإضافة"
+        "Added": "تمت الإضافة",
+        "Forget password?": "نسيت كلمة المرور؟",
+        "Use your email to restore your password": "استخدم بريدك الإلكتروني لاستعادة كلمة المرور الخاصة بك"
     }
 }
