@@ -2431,7 +2431,7 @@
         "Non-Disclosure Agreement": "Соглашение о неразглашении",
         "Data Processing Agreement": "Соглашение об обработке данных",
         "Success": "Успех",
-        "I agree with \"{{terms}}\"": "Я согласен с &quot;{{terms}}&quot;",
+        "I agree with \"{{terms}}\"": "Я согласен с \"{{terms}}\"",
         "Scheduled event time": "Запланированное время мероприятия",
         "Event duration": "Продолжительность события",
         "Keep up with the latest by following our Telegram channel": "Оставайтесь в курсе последних новостей, подписавшись на наш канал в Telegram",
