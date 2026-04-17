@@ -3,7 +3,6 @@
         "Account saved!": "Account saved!",
         "Image saved!": "Image saved!",
         "Referral link has been copied to clipboard": "Referral link has been copied to clipboard",
-        "Referral link has not been copied to clipboard. Please use browser functionality.": "Referral link has not been copied to clipboard. Please use browser functionality.",
         "Promo code accepted": "Promo code accepted",
         "Funds are added to your balance": "Funds are added to your balance",
         "Upload image": "Upload image",
@@ -1434,6 +1433,7 @@
         "Start a chat": "Start a chat",
         "Go to a chat": "Go to a chat",
         "Bot-driven chat": "Bot-driven chat",
-        "Start new chat": "Start new chat"
+        "Start new chat": "Start new chat",
+        "Referral link has not been copied to clipboard. Please use browser functionality.": "Referral link has not been copied to clipboard. Please use browser functionality."
     }
 }
