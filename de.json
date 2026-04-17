@@ -3556,8 +3556,8 @@
     "IMAP: Email-to-ticket": "IMAP: E-Mail-to-Ticket",
     "Forwarding: Email-to-ticket": "Weiterleitung: E-Mail-to-Ticket",
     "Disabled": "Deaktiviert",
-    "First replied agent": "Erster geantworteter Agent",
-    "Round-robin": "Rundenturnier",
+    "First replied agent": "Zuerst antwortender Agent",
+    "Round-robin": "Gleichmäßige Verteilung",
     "All members": "Alle Mitglieder",
     "All agents": "Alle Agenten",
     "Selected departments": "Ausgewählte Abteilungen",
@@ -4079,7 +4079,7 @@
     "You have no AI Providers yet": "You have no AI Providers yet",
     "Create AI Provider":"KI-Anbieter erstellen",
     "Enable shared access":"Gemeinsamen Zugriff aktivieren",
-
-
-
-}
+    "Send notification": "Benachrichtigung senden",
+    "No channels set": "Es sind keine Kanäle eingestellt",
+    "Use Roboto from Google Font":"Verwenden Sie „Roboto“ von Google Fonts",
+    }
