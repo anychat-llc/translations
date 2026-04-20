@@ -3926,7 +3926,7 @@
     "Free SSL certificates are only valid for three months, so you’ll need to renew them every quarter.": "Kostenlose SSL-Zertifikate sind nur drei Monate gültig, daher müssen Sie sie vierteljährlich erneuern.",
     "Wildcard SSL certificates require DNS verification, so they cannot be issued automatically.": "Wildcard-SSL-Zertifikate erfordern eine DNS-Verifizierung und können daher nicht automatisch ausgestellt werden.",
     "It will be processed in a hour.": "Die Bearbeitung dauert eine Stunde.",
-    "Wildcard domain": "Wildcard-Domain",
+    "Wildcard domain": "Platzhalter‑Domain",
     "We are searching for the following record:": "Wir suchen folgenden Datensatz:",
     "This domain requires updating SSL certificate manually every 90 days. Click for more details.": "Für diese Domain muss das SSL-Zertifikat alle 90 Tage manuell aktualisiert werden. Klicken Sie hier für weitere Informationen.",
     "We are only responsible for providing the technical components of the app. The other elements, such as the app listing page details, app logo, and screenshots, are your responsibility.": "Wir sind lediglich für die Bereitstellung der technischen Komponenten der App verantwortlich. Die übrigen Elemente, wie beispielsweise die Details auf der App-Eintragsseite, das App-Logo und Screenshots, liegen in Ihrer Verantwortung.",
