@@ -4080,7 +4080,27 @@
     "Enable shared access": "Gemeinsamen Zugriff aktivieren",
     "Send notification": "Benachrichtigung senden",
     "No channels set": "Es sind keine Kanäle eingestellt",
-    "Use Roboto from Google Font": "Verwenden Sie „Roboto“ von Google Fonts"
+    "Use Roboto from Google Font": "Verwenden Sie „Roboto“ von Google Fonts",
+    "Text field":"Textfeld",
+    "Phone field":"Telefonfeld",
+    "Email field":"E-Mail-Feld",
+    "Textarea":"Mehrzeiliges Textfeld",
+    "Checkbox":"Kontrollkästchen",
+    "Select":"Auswahlmenü",
+    "File":"Datei-Upload",
+    "Feedback":"Feedback",
+    "Rating":"Bewertung",
+    "-- none --":"-- keine --",
+    "Email":"E-Mail",
+    "Enable only letters and spaces":"Nur Buchstaben und Leerzeichen zulassen",
+    "Enable only numbers and spaces":"Nur Zahlen und Leerzeichen zulassen",
+    "Enable only letters, numbers and spaces":"Nur Buchstaben, Zahlen und Leerzeichen zulassen",
+    "Advanced (regular expression)":"Erweitert (Regulärer Ausdruck)",Submit":"Absenden",
+    "Link":"Link",
+    "No header":"Keine Kopfzeile",
+    "Text only":"Nur Text",
+    "Text with icon left":"Text mit Icon links",
+    "Text with icon center":"Text mit Icon zentriert"
     "Custom date": "Datum wählen";
     "Custom date range": "Zeitraum wählen";
     "Enterprise plan trial will expire on":"Die Testphase für den Enterprise-Tarif läuft bis",
