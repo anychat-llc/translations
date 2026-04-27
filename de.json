@@ -4258,5 +4258,13 @@
     "Not Assigned": "Nicht zugewiesen",
     "Read mobile app documentation": "Bitte lesen Sie unsere Dokumentation zum Build-Prozess der mobilen App",
     "I agree with NDA rules": "Ich stimme den Vertraulichkeitsvereinbarungen (NDA) zu",
-    "Close all": "Alle schließen"
+    "Close all": "Alle schließen",
+    "Simple AI": "KI-Direktantwort",
+    "Make AI reply to all incoming messages": "KI antwortet automatisch auf alle eingehenden Nachrichten.",
+    "AI with handover to agent": "KI mit Live-Agent-Übergabe",
+    "Have the AI respond to all incoming messages. If a customer requests a human agent, the AI should notify the agents. If no agent replies within 30 seconds, the AI should ask for the customer’s email address. Futher steps: - set up your own OpenAI API key - provide your system prompt to AI model - select one of your created AI assistants":"Die KI übernimmt die Kommunikation für alle eingehenden Nachrichten. Fordert ein Kunde einen menschlichen Mitarbeiter an, setzt die KI vorausschauend eine Benachrichtigung an das Team ab. Erfolgt innerhalb von 30 Sekunden keine Reaktion durch einen Agenten, erfragt die KI automatisch die E-Mail-Adresse für die spätere Kontaktaufnahme.",
+    "Create a ticket": "Support-Ticket erstellen",
+    "Ask customer data and ticket details to create a ticket": "Die KI erfasst proaktiv Kundendaten sowie Details zum Anliegen, um automatisch einen qualifizierten Support-Vorgang im System zu generieren.",
+    "Customer data + AI": "Kundendaten & KI-Übergabe",
+    "Collect customer data such as Name and Email and then pass conversation to AI": "Erfasst initial Kundendaten wie Name sowie E-Mail-Adresse und übergibt den Dialog anschließend proaktiv an die KI zur weiteren Bearbeitung."
 }
