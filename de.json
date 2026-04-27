@@ -4255,5 +4255,7 @@
     "Enabled": "Aktiviert",
     "Crisp settings": "Crisp-Einstellungen",
     "Assigned department": "Zuständige Abteilung",
-    "Not Assigned": "Nicht zugewiesen"   
+    "Not Assigned": "Nicht zugewiesen",
+    "Read mobile app documentation": "Bitte lesen Sie unsere Dokumentation zum Build-Prozess der mobilen App",
+    "I agree with NDA rules": "Ich stimme den Vertraulichkeitsvereinbarungen (NDA) zu"
 }
