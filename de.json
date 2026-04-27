@@ -3504,7 +3504,7 @@
     "Remaining integrations: {{count}}": "Verbleibende Integrationen: {{count}}",
     "Error connecting channel": "Fehler beim Verbinden des Kanals",
     "Channel connected": "Kanal verbunden",
-    "Messenger": "Bote",
+    "Messenger": "Messenger",
     "TikTok": "TikTok",
     "Connecting TikTok...": "TikTok wird verbunden …",
     "Preferences": "Einstellungen",
@@ -4267,4 +4267,8 @@
     "Ask customer data and ticket details to create a ticket": "Die KI erfasst proaktiv Kundendaten sowie Details zum Anliegen, um automatisch einen qualifizierten Support-Vorgang im System zu generieren.",
     "Customer data + AI": "Kundendaten & KI-Übergabe",
     "Collect customer data such as Name and Email and then pass conversation to AI": "Erfasst initial Kundendaten wie Name sowie E-Mail-Adresse und übergibt den Dialog anschließend proaktiv an die KI zur weiteren Bearbeitung."
+    "Invoice number, client name, email": "Rechnungsnummer, Kundenname, E-Mail",
+    "Withdraw": "Auszahlen",
+    "Withdrawal_Error": "Guthaben nicht ausreichend. Der Mindestbetrag für eine Auszahlung beträgt 50 $."
 }
+
