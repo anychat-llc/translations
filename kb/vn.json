@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Chế độ sáng",
+        "System mode": "Chế độ hệ thống",
+        "Dark mode": "Chế độ tối",
+        "Submit new ticket": "Gửi vé mới",
+        "Ticket is submitted": "Vé đã được gửi",
+        "Ticket number: ": "Vé số: ",
+        "Submit another ticket": "Gửi một vé khác",
+        "Cancel": "Hủy bỏ",
+        "Search content": "Tìm kiếm nội dung",
+        "No results for \"{{term}}\"": "Không có kết quả cho \"{{term}}\"",
+        "Submit a ticket": "Gửi một vé",
+        "Search": "Tìm kiếm",
+        "Powered by {{brand}}": "Được hỗ trợ bởi {{brand}}",
+        "Attachments:": "Tệp đính kèm:",
+        "Related articles:": "Những bài viết liên quan:",
+        "Was this article helpful?": "Bài viết này hữu ích không?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} trong tổng số {{total}} đã thích bài viết này",
+        "Last updated": "Cập nhật mới nhất",
+        "Page not found": "Không tìm thấy trang",
+        "The page you are looking for doesn't exist.": "Trang bạn đang tìm kiếm không tồn tại.",
+        "No articles yet": "Chưa có bài viết nào",
+        "Knowledge base": "Kiến thức cơ bản",
+        "Previous": "Trước",
+        "Next": "Kế tiếp"
+    }
+}

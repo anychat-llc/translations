@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "灯光模式",
+        "System mode": "系统模式",
+        "Dark mode": "暗黑模式",
+        "Submit new ticket": "提交新工单",
+        "Ticket is submitted": "票已提交",
+        "Ticket number: ": "票号： ",
+        "Submit another ticket": "提交另一张工单",
+        "Cancel": "取消",
+        "Search content": "搜索内容",
+        "No results for \"{{term}}\"": "没有找到“{{term}}”的搜索结果",
+        "Submit a ticket": "提交工单",
+        "Search": "搜索",
+        "Powered by {{brand}}": "由 {{brand}} 提供支持",
+        "Attachments:": "附件：",
+        "Related articles:": "相关文章：",
+        "Was this article helpful?": "本文是否有帮助？",
+        "{{liked}} of {{total}} liked this article": "{{total}} 人中的 {{like}} 人喜欢这篇文章",
+        "Last updated": "最近更新时间",
+        "Page not found": "找不到网页",
+        "The page you are looking for doesn't exist.": "您要查找的页面不存在。",
+        "No articles yet": "还没有文章",
+        "Knowledge base": "知识库",
+        "Previous": "以前的",
+        "Next": "下一个"
+    }
+}

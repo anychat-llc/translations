@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Ljusläge",
+        "System mode": "Systemläge",
+        "Dark mode": "Mörkt läge",
+        "Submit new ticket": "Skicka in ny biljett",
+        "Ticket is submitted": "Biljett skickas",
+        "Ticket number: ": "Biljettnummer: ",
+        "Submit another ticket": "Skicka en annan biljett",
+        "Cancel": "Avboka",
+        "Search content": "Sök innehåll",
+        "No results for \"{{term}}\"": "Inga resultat för \"{{term}}\"",
+        "Submit a ticket": "Skicka in en biljett",
+        "Search": "Söka",
+        "Powered by {{brand}}": "Drivs av {{brand}}",
+        "Attachments:": "Bilagor:",
+        "Related articles:": "Relaterade artiklar:",
+        "Was this article helpful?": "Var den här artikeln till hjälp?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} av {{total}} gillade den här artikeln",
+        "Previous": "Tidigare",
+        "Next": "Nästa",
+        "Last updated": "Senast uppdaterad",
+        "Page not found": "Sidan hittades inte",
+        "The page you are looking for doesn't exist.": "Sidan du letar efter finns inte.",
+        "No articles yet": "Inga artiklar ännu",
+        "Knowledge base": "Kunskapsbas"
+    }
+}

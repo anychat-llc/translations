@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "ライトモード",
+        "System mode": "システムモード",
+        "Dark mode": "ダークモード",
+        "Submit new ticket": "新しいチケットを送信",
+        "Ticket is submitted": "チケットが送信されました",
+        "Ticket number: ": "チケット番号: ",
+        "Submit another ticket": "別のチケットを送信する",
+        "Cancel": "キャンセル",
+        "Search content": "コンテンツを検索",
+        "No results for \"{{term}}\"": "「{{term}}」に該当する結果はありません",
+        "Submit a ticket": "チケットを送信",
+        "Search": "検索",
+        "Powered by {{brand}}": "{{brand}} によって提供",
+        "Attachments:": "添付ファイル:",
+        "Related articles:": "関連記事：",
+        "Was this article helpful?": "この記事は役に立ちましたか?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} 人中 {{total}} 人がこの記事を気に入りました",
+        "Last updated": "最終更新",
+        "Page not found": "ページが見つかりません",
+        "The page you are looking for doesn't exist.": "探しているページは存在しません。",
+        "No articles yet": "まだ記事はありません",
+        "Knowledge base": "知識ベース",
+        "Previous": "前の",
+        "Next": "次"
+    }
+}

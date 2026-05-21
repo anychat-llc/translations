@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "מצב אור",
+        "System mode": "מצב מערכת",
+        "Dark mode": "מצב כהה",
+        "Submit new ticket": "שלח כרטיס חדש",
+        "Ticket is submitted": "הכרטיס מוגש",
+        "Ticket number: ": "מספר כרטיס: ",
+        "Submit another ticket": "שלח כרטיס נוסף",
+        "Cancel": "לְבַטֵל",
+        "Search content": "חיפוש תוכן",
+        "No results for \"{{term}}\"": "אין תוצאות עבור \"{{term}}\"",
+        "Submit a ticket": "שלח כרטיס",
+        "Search": "לחפש",
+        "Powered by {{brand}}": "מופעל על ידי {{brand}}",
+        "Attachments:": "קבצים מצורפים:",
+        "Related articles:": "מאמרים קשורים:",
+        "Was this article helpful?": "האם המאמר הזה היה מועיל?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} מתוך {{total}} אהבו את המאמר הזה",
+        "Last updated": "עודכן לאחרונה",
+        "Page not found": "הדף לא נמצא",
+        "The page you are looking for doesn't exist.": "הדף שאתה מחפש לא קיים.",
+        "No articles yet": "עדיין אין מאמרים",
+        "Knowledge base": "בסיס ידע",
+        "Previous": "קודם",
+        "Next": "הַבָּא"
+    }
+}

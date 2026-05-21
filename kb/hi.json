@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "लाइट मोड",
+        "System mode": "सिस्टम मोड",
+        "Dark mode": "डार्क मोड",
+        "Submit new ticket": "नया टिकट सबमिट करें",
+        "Ticket is submitted": "टिकट जमा कर दिया गया है",
+        "Ticket number: ": "टिकट संख्या: ",
+        "Submit another ticket": "दूसरा टिकट सबमिट करें",
+        "Cancel": "रद्द करना",
+        "Search content": "खोज सामग्री",
+        "No results for \"{{term}}\"": "\"{{term}}\" के लिए कोई परिणाम नहीं",
+        "Submit a ticket": "टिकट जमा करें",
+        "Search": "खोज",
+        "Powered by {{brand}}": "{{brand}} द्वारा संचालित",
+        "Attachments:": "अनुलग्नक:",
+        "Related articles:": "संबंधित आलेख:",
+        "Was this article helpful?": "क्या यह लेख सहायक था?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} में से {{पसंद किए गए}} लोगों ने इस लेख को पसंद किया",
+        "Last updated": "आखरी अपडेट",
+        "Page not found": "पृष्ठ नहीं मिला",
+        "The page you are looking for doesn't exist.": "आप जिस पेज को खोज रहे हैं वह मौजूद नहीं है.",
+        "No articles yet": "अभी तक कोई लेख नहीं",
+        "Knowledge base": "ज्ञानधार",
+        "Previous": "पहले का",
+        "Next": "अगला"
+    }
+}

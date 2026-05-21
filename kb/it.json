@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Modalità luce",
+        "System mode": "Modalità di sistema",
+        "Dark mode": "Modalità scura",
+        "Submit new ticket": "Invia nuovo ticket",
+        "Ticket is submitted": "Il biglietto è inviato",
+        "Ticket number: ": "Numero del biglietto: ",
+        "Submit another ticket": "Invia un altro ticket",
+        "Cancel": "Annulla",
+        "Search content": "Cerca contenuti",
+        "No results for \"{{term}}\"": "Nessun risultato per \"{{term}}\"",
+        "Submit a ticket": "Invia un biglietto",
+        "Search": "Ricerca",
+        "Powered by {{brand}}": "Realizzato da {{brand}}",
+        "Attachments:": "Allegati:",
+        "Related articles:": "Articoli Correlati:",
+        "Was this article helpful?": "questo articolo è stato utile?",
+        "{{liked}} of {{total}} liked this article": "A {{liked}} di {{total}} è piaciuto questo articolo",
+        "Last updated": "Ultimo aggiornamento",
+        "Page not found": "pagina non trovata",
+        "The page you are looking for doesn't exist.": "La pagina che stai cercando non esiste.",
+        "No articles yet": "Nessun articolo ancora",
+        "Knowledge base": "Base di conoscenza",
+        "Previous": "Precedente",
+        "Next": "Prossimo"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "燈光模式",
+        "System mode": "系統模式",
+        "Dark mode": "暗黑模式",
+        "Submit new ticket": "提交新工單",
+        "Ticket is submitted": "票已提交",
+        "Ticket number: ": "票號： ",
+        "Submit another ticket": "提交另一張工單",
+        "Cancel": "取消",
+        "Search content": "搜尋內容",
+        "No results for \"{{term}}\"": "沒有找到「{{term}}」的搜尋結果",
+        "Submit a ticket": "提交工單",
+        "Search": "搜尋",
+        "Powered by {{brand}}": "由 {{brand}} 提供支持",
+        "Attachments:": "附件：",
+        "Related articles:": "相關文章：",
+        "Was this article helpful?": "這篇文章有幫助嗎？",
+        "{{liked}} of {{total}} liked this article": "{{total}} 人中的 {{like}} 人喜歡這篇文章",
+        "Previous": "以前的",
+        "Next": "下一個",
+        "Last updated": "上次更新",
+        "Page not found": "未找到頁面",
+        "The page you are looking for doesn't exist.": "您要尋找的頁面不存在。",
+        "No articles yet": "還沒有文章",
+        "Knowledge base": "知識庫"
+    }
+}

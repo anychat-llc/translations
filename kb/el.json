@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Λειτουργία φωτός",
+        "System mode": "Λειτουργία συστήματος",
+        "Dark mode": "Σκοτεινή λειτουργία",
+        "Submit new ticket": "Υποβολή νέου εισιτηρίου",
+        "Ticket is submitted": "Το εισιτήριο υποβάλλεται",
+        "Ticket number: ": "Αριθμός εισιτηρίου: ",
+        "Submit another ticket": "Υποβάλετε άλλο εισιτήριο",
+        "Cancel": "Ματαίωση",
+        "Search content": "Αναζήτηση περιεχομένου",
+        "No results for \"{{term}}\"": "Δεν υπάρχουν αποτελέσματα για \"{{term}}\"",
+        "Submit a ticket": "Υποβολή εισιτηρίου",
+        "Search": "Ερευνα",
+        "Powered by {{brand}}": "Με την υποστήριξη του {{brand}}",
+        "Attachments:": "Συνημμένα:",
+        "Related articles:": "Σχετικά άρθρα:",
+        "Was this article helpful?": "Ήταν αυτό το άρθρο χρήσιμο;",
+        "{{liked}} of {{total}} liked this article": "{{ άρεσε}} από {{total}} άρεσε αυτό το άρθρο",
+        "Previous": "Προηγούμενος",
+        "Next": "Επόμενος",
+        "Last updated": "Τελευταία ενημέρωση",
+        "Page not found": "Η σελίδα δεν βρέθηκε",
+        "The page you are looking for doesn't exist.": "Η σελίδα που ψάχνετε δεν υπάρχει.",
+        "No articles yet": "Δεν υπάρχουν ακόμη άρθρα",
+        "Knowledge base": "Βάση γνώσεων"
+    }
+}

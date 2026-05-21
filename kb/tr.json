@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Işık modu",
+        "System mode": "Sistem modu",
+        "Dark mode": "Karanlık mod",
+        "Submit new ticket": "Yeni bilet gönder",
+        "Ticket is submitted": "Bilet gönderildi",
+        "Ticket number: ": "Bilet numarası: ",
+        "Submit another ticket": "Başka bir bilet gönder",
+        "Cancel": "İptal etmek",
+        "Search content": "İçerik ara",
+        "No results for \"{{term}}\"": "\"{{term}}\" için sonuç yok",
+        "Submit a ticket": "Bilet gönder",
+        "Search": "Aramak",
+        "Powered by {{brand}}": "{{brand}} tarafından desteklenmektedir",
+        "Attachments:": "Ekler:",
+        "Related articles:": "İlgili Makaleler:",
+        "Was this article helpful?": "Bu makale yardımcı oldu mu?",
+        "{{liked}} of {{total}} liked this article": "{{total}} kişiden {{liked}} tanesi bu makaleyi beğendi",
+        "Last updated": "Son güncelleme",
+        "Page not found": "sayfa bulunamadı",
+        "The page you are looking for doesn't exist.": "Aradığınız sayfa mevcut değil.",
+        "No articles yet": "Henüz makale yok",
+        "Knowledge base": "Bilgi tabanı",
+        "Previous": "Öncesi",
+        "Next": "Sonraki"
+    }
+}

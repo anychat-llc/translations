@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "হালকা মোড",
+        "System mode": "সিস্টেম মোড",
+        "Dark mode": "ডার্ক মোড",
+        "Submit new ticket": "নতুন টিকিট জমা দিন",
+        "Ticket is submitted": "টিকিট জমা দেওয়া হয়েছে।",
+        "Ticket number: ": "টিকিট নম্বর: ",
+        "Submit another ticket": "আরেকটি টিকিট জমা দিন",
+        "Cancel": "বাতিল করুন",
+        "Search content": "কন্টেন্ট অনুসন্ধান করুন",
+        "No results for \"{{term}}\"": "\"{{term}}\" এর জন্য কোনও ফলাফল নেই",
+        "Submit a ticket": "টিকিট জমা দিন",
+        "Search": "অনুসন্ধান করুন",
+        "Powered by {{brand}}": "{{brand}} দ্বারা পরিচালিত",
+        "Attachments:": "সংযুক্তি:",
+        "Related articles:": "সম্পর্কিত প্রবন্ধ:",
+        "Was this article helpful?": "এই প্রবন্ধটা কি সাহায্যকর ছিল?",
+        "{{liked}} of {{total}} liked this article": "{{total}} জনের মধ্যে {{liked}} জন এই লেখাটি পছন্দ করেছেন",
+        "Previous": "পূর্ববর্তী",
+        "Next": "পরবর্তী",
+        "Last updated": "সর্বশেষ আপডেট করা হয়েছে",
+        "Page not found": "পৃষ্ঠাটি খুঁজে পাওয়া যায়নি",
+        "The page you are looking for doesn't exist.": "আপনি যে পৃষ্ঠাটি খুঁজছেন তা বিদ্যমান নেই।",
+        "No articles yet": "এখনও কোনও নিবন্ধ নেই।",
+        "Knowledge base": "জ্ঞান ভাণ্ডার"
+    }
+}

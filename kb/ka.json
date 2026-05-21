@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "სინათლის რეჟიმი",
+        "System mode": "სისტემის რეჟიმი",
+        "Dark mode": "მუქი რეჟიმი",
+        "Submit new ticket": "ახალი ბილეთის გაგზავნა",
+        "Ticket is submitted": "ბილეთი წარმოდგენილია",
+        "Ticket number: ": "ბილეთის ნომერი: ",
+        "Submit another ticket": "გაგზავნეთ სხვა ბილეთი",
+        "Cancel": "გაუქმება",
+        "Search content": "მოძებნეთ შინაარსი",
+        "No results for \"{{term}}\"": "შედეგი არ არის „{{term}}“-ისთვის",
+        "Submit a ticket": "გაგზავნეთ ბილეთი",
+        "Search": "ძიება",
+        "Powered by {{brand}}": "უზრუნველყოფილია {{brand}}-ის მიერ",
+        "Attachments:": "დანართები:",
+        "Related articles:": "დაკავშირებული სტატიები:",
+        "Was this article helpful?": "იყო ეს სტატია სასარგებლო?",
+        "{{liked}} of {{total}} liked this article": "{{მოიწონა}}-დან {{სულ}} მოეწონა ეს სტატია",
+        "Previous": "წინა",
+        "Next": "შემდეგი",
+        "Last updated": "ბოლოს განახლდა",
+        "Page not found": "გვერდი ვერ მოიძებნა",
+        "The page you are looking for doesn't exist.": "გვერდი, რომელსაც ეძებთ, არ არსებობს.",
+        "No articles yet": "ჯერ არ არის სტატიები",
+        "Knowledge base": "ცოდნის ბაზა"
+    }
+}

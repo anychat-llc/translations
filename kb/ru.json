@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Светлый режим",
+        "System mode": "Системный режим",
+        "Dark mode": "Темный режим",
+        "Submit new ticket": "Отправить новый билет",
+        "Ticket is submitted": "Билет отправлен",
+        "Ticket number: ": "Номер билета: ",
+        "Submit another ticket": "Отправить еще один билет",
+        "Cancel": "Отмена",
+        "Search content": "Поиск контента",
+        "No results for \"{{term}}\"": "Нет результатов по запросу \"{{term}}\"",
+        "Submit a ticket": "Отправить билет",
+        "Search": "Поиск",
+        "Powered by {{brand}}": "При поддержке {{brand}}",
+        "Attachments:": "Вложения:",
+        "Related articles:": "Статьи по Теме:",
+        "Was this article helpful?": "Была ли эта статья полезна?",
+        "{{liked}} of {{total}} liked this article": "Эта статья понравилась пользователю {{liked}} из {{total}}",
+        "Last updated": "Последнее обновление",
+        "Page not found": "Страница не найдена",
+        "The page you are looking for doesn't exist.": "Страница, которую вы ищете, не существует.",
+        "No articles yet": "Пока нет статей",
+        "Knowledge base": "База знаний",
+        "Previous": "Предыдущий",
+        "Next": "Следующий"
+    }
+}

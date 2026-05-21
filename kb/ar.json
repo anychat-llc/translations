@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "وضع الضوء",
+        "System mode": "وضع النظام",
+        "Dark mode": "الوضع المظلم",
+        "Submit new ticket": "إرسال تذكرة جديدة",
+        "Ticket is submitted": "تم تقديم التذكرة",
+        "Ticket number: ": "رقم التذكرة: ",
+        "Submit another ticket": "إرسال تذكرة أخرى",
+        "Cancel": "يلغي",
+        "Search content": "محتوى البحث",
+        "No results for \"{{term}}\"": "لا توجد نتائج ل \"{{term}}\"",
+        "Submit a ticket": "تسجيل التذكرة",
+        "Search": "يبحث",
+        "Powered by {{brand}}": "مدعوم من {{brand}}",
+        "Attachments:": "المرفقات:",
+        "Related articles:": "مقالات ذات صلة:",
+        "Was this article helpful?": "هل كان المقال مساعدا؟!",
+        "{{liked}} of {{total}} liked this article": "{{liked}} من {{total}} أعجبه هذا المقال",
+        "Last updated": "آخر تحديث",
+        "Page not found": "الصفحة غير موجودة",
+        "The page you are looking for doesn't exist.": "الصفحة التي تبحث عنها غير موجودة.",
+        "No articles yet": "لا توجد مقالات حتى الآن",
+        "Knowledge base": "قاعدة المعرفة",
+        "Previous": "سابق",
+        "Next": "التالي"
+    }
+}

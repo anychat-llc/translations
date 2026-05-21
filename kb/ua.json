@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Світловий режим",
+        "System mode": "Системний режим",
+        "Dark mode": "Темний режим",
+        "Submit new ticket": "Надішліть новий квиток",
+        "Ticket is submitted": "Квиток подано",
+        "Ticket number: ": "Номер квитка: ",
+        "Submit another ticket": "Надішліть інший квиток",
+        "Cancel": "Скасувати",
+        "Search content": "Пошук вмісту",
+        "No results for \"{{term}}\"": "Немає результатів для \"{{term}}\"",
+        "Submit a ticket": "Подайте квиток",
+        "Search": "Пошук",
+        "Powered by {{brand}}": "Завдяки {{brand}}",
+        "Attachments:": "Додатки:",
+        "Related articles:": "Пов'язані статті:",
+        "Was this article helpful?": "Чи була ця стаття корисною?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} із {{total}} сподобалася ця стаття",
+        "Last updated": "Останнє оновлення",
+        "Page not found": "Сторінку не знайдено",
+        "The page you are looking for doesn't exist.": "Сторінка, яку ви шукаєте, не існує.",
+        "No articles yet": "Ще немає статей",
+        "Knowledge base": "База знань",
+        "Previous": "Попередній",
+        "Next": "Далі"
+    }
+}

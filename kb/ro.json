@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "Light mode": "Modul de lumină",
+        "System mode": "Modul sistem",
+        "Dark mode": "Modul întunecat",
+        "Submit new ticket": "Trimiteți bilet nou",
+        "Ticket is submitted": "Biletul este depus",
+        "Ticket number: ": "Numărul biletului: ",
+        "Submit another ticket": "Trimiteți un alt bilet",
+        "Cancel": "Anula",
+        "Search content": "Căutați conținut",
+        "No results for \"{{term}}\"": "Niciun rezultat pentru „{{term}}”",
+        "Submit a ticket": "Trimiteți un bilet",
+        "Search": "Căutare",
+        "Powered by {{brand}}": "Produs de {{brand}}",
+        "Attachments:": "Atasamente:",
+        "Related articles:": "Articole înrudite:",
+        "Was this article helpful?": "A fost util acest articol?",
+        "{{liked}} of {{total}} liked this article": "{{liked}} din {{total}} au apreciat acest articol",
+        "Previous": "Anterior",
+        "Next": "Următorul",
+        "Last updated": "Ultima actualizare",
+        "Page not found": "Pagina nu a fost găsită",
+        "The page you are looking for doesn't exist.": "Pagina pe care o cauți nu există.",
+        "No articles yet": "Încă nu există articole",
+        "Knowledge base": "Baza de cunoștințe"
+    }
+}
